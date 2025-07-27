@@ -23,14 +23,6 @@ This Power BI dashboard presents a detailed analysis of **Royal Challengers Bang
 
 ---
 
-## 📸 Preview
-
-![RCB Dashboard Preview](screenshots/rcb_dashboard.png)
-
-> 📌 *Built as a personal portfolio project to demonstrate data storytelling, Power BI design, and IPL analytics.*
-
----
-
 ## 🔗 Project Status
 
 ✅ Completed — Feel free to explore or suggest improvements!  
